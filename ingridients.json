@@ -1,0 +1,42 @@
+[
+  {
+    "itemName": "apple",
+    "availableItems": 10
+  },
+  {
+    "itemName": "pineapple",
+    "availableItems": 3
+  },
+  {
+    "itemName": "tomato",
+    "availableItems": 4
+  },
+  {
+    "itemName": "banana",
+    "availableItems": 6
+  },
+  {
+    "itemName": "spinach",
+    "availableItems": 2
+  },
+  {
+    "itemName": "kiwi",
+    "availableItems": 4
+  },
+  {
+    "itemName": "apple",
+    "availableItems": 7
+  },
+  {
+    "itemName": "pickle",
+    "availableItems": 4
+  },
+  {
+    "itemName": "apple",
+    "availableItems": 3
+  },
+  {
+    "itemName": "avocado",
+    "availableItems": 7
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "shmz_bot",
+  "version": "1.0.0",
+  "description": "Test Telegram Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmk1111/shmz_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmk1111/shmz_bot/issues"
+  },
+  "homepage": "https://github.com/dmk1111/shmz_bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.88.0"
+  }
+}
